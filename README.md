@@ -1,7 +1,7 @@
 # tf-no-resources-statefile
 
 **NOTE: this version of tf-no-resources contains a Terrafrom state file for test!**
-(Btw., the key pair in the statefile is generated and irrelavant, thus it can be published)
+(btw, the key pair in the statefile is generated and irrelavant, thus it can be published)
 
 A Terraform configuration that just outputs a message for simple tests, no resources are created:
 - the standard Terraform variable file ```terraform.tfvars``` is defined to show that values defined there are
